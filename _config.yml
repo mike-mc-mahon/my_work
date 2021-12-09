@@ -1,0 +1,8 @@
+# basic options
+title: Michael Mahon
+email: michael_mc_mahon@outlook.ie
+github_username:  mike-mc-mahon
+
+# Build settings
+markdown: kramdown
+theme: minima
