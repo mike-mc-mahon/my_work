@@ -5,4 +5,4 @@ github_username:  mike-mc-mahon
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
