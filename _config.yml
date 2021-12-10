@@ -1,9 +1,12 @@
 # basic options
 title: Michael McMahon
-email: michael_mc_mahon@outlook.ie
-github_username:  mike-mc-mahon
-twitter_username: Mc_econ
+author:
+  name: Michael McMahon
+  email: michael_mc_mahon@outlook.ie
+  github_username:  mike-mc-mahon
+  twitter_username: Mc_econ
+description: "test content."
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
