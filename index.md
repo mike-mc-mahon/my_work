@@ -1,6 +1,6 @@
----- 
+--- 
 layout: home
-----
+---
 
 ## My Interests
 I am an economist with a particular interest in how digital technologies are impacting firms and the economy more broadly. 
