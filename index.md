@@ -2,7 +2,6 @@
 layout: home
 ---
 
-## My Interests
 I am an economist with a particular interest in how digital technologies are impacting firms and the economy more broadly. 
 
 I believe that digital technologies are having important impacts on competition between firms due to their heterogeneous effects on firms of different sizes and capabilities. I also believe that these impacts could be accentuated as technologies such as AI and machine learning develop. This has led me to pursue a PhD in economics under [Prof. Stephen Kinsella](https://twitter.com/stephenkinsella?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) (University of Limerick) and [Prof. Eleanor Doyle](https://www.cubsucc.com/faculty-directory/dr-eleanor-doyle/) (University College Cork).
