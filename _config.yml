@@ -9,6 +9,4 @@ description: "test content."
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
-
 theme: jekyll-theme-slate
