@@ -6,7 +6,7 @@ title: CV
 ## Education
 B.A. (Economics), University College Cork, 2002.  
 M.Sc. Economics for Development, University of Oxford, 2004.  
-M.B.A. University College Dublin, 2009.  
+M.B.A., U.C.D Smurfit School of Business, 2009.  
 PhD scholar, University of Limerick, current.
 
 ## Non-Academic Positions
@@ -22,6 +22,12 @@ I helped oversee trading activities on the Exchange, investigating potential cas
 ## Teaching
 Issues in Public Economics (TT4038), 2021  
 Macroeconomic Theory (EC6021), 2021
+
+## Awards / Achievements 
+Prize for the best results in second year Arts in U.C.C.
+First in my final year economics class and second in Arts overall  
+First in my M.B.A. class in U.C.D Smurfit School of Business
+
 
 
 
