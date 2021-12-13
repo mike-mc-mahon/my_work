@@ -4,9 +4,9 @@ title: CV
 ---
 
 ## Education
-B.A. (Economics), University College Cork, 2002. 
-M.Sc. Economics for Development, University of Oxford, 2004.
-M.B.A. University College Dublin, 2009.
+B.A. (Economics), University College Cork, 2002.  
+M.Sc. Economics for Development, University of Oxford, 2004.  
+M.B.A. University College Dublin, 2009.  
 PhD scholar, University of Limerick, current.
 
 ## Non-Academic Positions
@@ -20,7 +20,7 @@ I worked as an equity analyst, primarily covering the food and beverage sector. 
 I helped oversee trading activities on the Exchange, investigating potential cases of market abuse and conducting reviews of member firms. I also assessed potential new avenues of business for the Exchange (new product listings, etc.). 
 
 ## Teaching
-Issues in Public Economics (TT4038), 2021
+Issues in Public Economics (TT4038), 2021  
 Macroeconomic Theory (EC6021), 2021
 
 
