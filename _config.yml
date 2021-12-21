@@ -1,10 +1,8 @@
 # basic options
 title: Michael McMahon
-author:
-  email: michael_mc_mahon@outlook.ie
-  github_username:  mike-mc-mahon
-  twitter_username: Mc_econ
-description: "test content."
+email: michael_mc_mahon@outlook.ie
+github_username:  mike-mc-mahon
+twitter_username: Mc_econ
 
 # Build settings
 markdown: kramdown
